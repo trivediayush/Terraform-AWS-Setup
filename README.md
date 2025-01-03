@@ -58,7 +58,5 @@ Before running the project, make sure you have:
 - **Automation**: Quickly provision, modify, and destroy AWS resources.
 
 ## License
-
-- MIT License
-
-- Copyright (c) 2024 Ayush Trivedi
+MIT License
+Copyright (c) 2024 Ayush Trivedi
