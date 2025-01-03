@@ -59,4 +59,6 @@ Before running the project, make sure you have:
 
 ## License
 
+- MIT License
 
+- Copyright (c) 2024 Ayush Trivedi
